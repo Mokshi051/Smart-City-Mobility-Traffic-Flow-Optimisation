@@ -1,0 +1,57 @@
+Origin Area,Destination Area,Daily Commuter Flow
+Electronic City,Hebbal,9270
+Electronic City,Indiranagar,2860
+Electronic City,Jayanagar,7390
+Electronic City,Koramangala,7191
+Electronic City,M.G. Road,13964
+Electronic City,Whitefield,13284
+Electronic City,Yeshwanthpur,7734
+Hebbal,Electronic City,8265
+Hebbal,Indiranagar,2466
+Hebbal,Jayanagar,6426
+Hebbal,Koramangala,7578
+Hebbal,M.G. Road,13636
+Hebbal,Whitefield,13363
+Hebbal,Yeshwanthpur,13111
+Indiranagar,Electronic City,10322
+Indiranagar,Hebbal,3685
+Indiranagar,Jayanagar,2769
+Indiranagar,Koramangala,12583
+Indiranagar,M.G. Road,8949
+Indiranagar,Whitefield,4433
+Indiranagar,Yeshwanthpur,7311
+Jayanagar,Electronic City,7051
+Jayanagar,Hebbal,8420
+Jayanagar,Indiranagar,3184
+Jayanagar,Koramangala,6555
+Jayanagar,M.G. Road,5385
+Jayanagar,Whitefield,14309
+Jayanagar,Yeshwanthpur,8396
+Koramangala,Electronic City,13096
+Koramangala,Hebbal,10666
+Koramangala,Indiranagar,11274
+Koramangala,Jayanagar,4558
+Koramangala,M.G. Road,9849
+Koramangala,Whitefield,4047
+Koramangala,Yeshwanthpur,4747
+M.G. Road,Electronic City,11167
+M.G. Road,Hebbal,11998
+M.G. Road,Indiranagar,2189
+M.G. Road,Jayanagar,4734
+M.G. Road,Koramangala,5005
+M.G. Road,Whitefield,6658
+M.G. Road,Yeshwanthpur,3899
+Whitefield,Electronic City,9734
+Whitefield,Hebbal,3267
+Whitefield,Indiranagar,3528
+Whitefield,Jayanagar,13394
+Whitefield,Koramangala,5556
+Whitefield,M.G. Road,5890
+Whitefield,Yeshwanthpur,10838
+Yeshwanthpur,Electronic City,13080
+Yeshwanthpur,Hebbal,7393
+Yeshwanthpur,Indiranagar,12627
+Yeshwanthpur,Jayanagar,10792
+Yeshwanthpur,Koramangala,12555
+Yeshwanthpur,M.G. Road,12253
+Yeshwanthpur,Whitefield,10433
